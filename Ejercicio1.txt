@@ -1,0 +1,22 @@
+Git y Github son dos herramientas diferentes pero relacionadas que se utilizan 
+comúnmente en la gestión de versiones de software y en la colaboración en 
+proyectos de programación. A continuación, se presentan algunas de las 
+principales diferencias entre Git y Github:
+• Git es un sistema de control de versiones de código fuente distribuido, mientras 
+que Github es un servicio en línea que proporciona almacenamiento en la nube y 
+una plataforma de colaboración para proyectos de software que utilizan Git como 
+sistema de control de versiones.
+• Git es una herramienta de línea de comandos que se instala en la computadora 
+del usuario, mientras que Github es una aplicación web que se ejecuta en línea y 
+se puede acceder a través de un navegador web.
+• Git se utiliza para realizar un seguimiento de los cambios en el código fuente y 
+mantener un historial completo de cada cambio, mientras que Github se utiliza 
+para alojar repositorios Git y proporcionar herramientas para colaborar y 
+administrar el código fuente.
+• Git se puede utilizar para trabajar en proyectos de software sin conexión a 
+Internet, mientras que Github requiere una conexión a Internet para la mayoría de 
+las funciones.
+• Git es una herramienta de código abierto y se puede utilizar de forma gratuita, 
+mientras que Github ofrece planes de pago que proporcionan características 
+adicionales, como repositorios privados y herramientas de colaboración 
+avanzadas
